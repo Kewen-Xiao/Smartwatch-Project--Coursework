@@ -1,0 +1,5 @@
+load STM32L476RGTx
+project name STM32CubeMX
+project toolchain "MDK-ARM V5"
+project path "C:\Users\lls86\Desktop\stm32assignment\ex1\MDK-ARM\STM32CubeMX\ex1"
+SetCopyLibrary "copy only"

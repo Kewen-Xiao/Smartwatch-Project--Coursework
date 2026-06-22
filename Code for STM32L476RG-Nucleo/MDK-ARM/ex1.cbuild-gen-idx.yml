@@ -1,0 +1,13 @@
+build-gen-idx:
+  generated-by: uVision version 5.40.0.0
+  generators:
+    - board: ""
+      device: STM32L476RGTx
+      id: CubeMX
+      output: C:/Users/lls86/Desktop/stm32assignment/ex1/MDK-ARM/STM32CubeMX/ex1/
+      project-type: single-core
+      cbuild-gens:
+        - cbuild-gen: C:/Users/lls86/Desktop/stm32assignment/ex1/MDK-ARM/ex1.ex1.cbuild-gen.yml
+          configuration: .ex1
+          name: C:/Users/lls86/Desktop/stm32assignment/ex1/MDK-ARM/STM32CubeMX/ex1/ex1.cgen.yml
+          project: ex1

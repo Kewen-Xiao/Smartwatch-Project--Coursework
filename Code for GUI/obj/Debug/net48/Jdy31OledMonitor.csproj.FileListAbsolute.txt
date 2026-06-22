@@ -1,0 +1,33 @@
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\bin\Debug\net48\Assets\ui_background.png
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\bin\Debug\net48\Jdy31OledMonitor.exe.config
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\bin\Debug\net48\Jdy31OledMonitor.exe
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\bin\Debug\net48\Jdy31OledMonitor.pdb
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.csproj.AssemblyReference.cache
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.AssemblyInfoInputs.cache
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.AssemblyInfo.cs
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.csproj.CoreCompileInputs.cache
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.exe
+D:\mobile\download\OledJdy31GuiProject_Integrated_AllData\OledJdy31GuiProject_Integrated_AllData\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.pdb
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\bin\Debug\net48\Assets\ui_background.png
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\bin\Debug\net48\Jdy31OledMonitor.exe.config
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\bin\Debug\net48\Jdy31OledMonitor.exe
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\bin\Debug\net48\Jdy31OledMonitor.pdb
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.csproj.AssemblyReference.cache
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.AssemblyInfoInputs.cache
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.AssemblyInfo.cs
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.csproj.CoreCompileInputs.cache
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.exe
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\Jdy31OledMonitor\obj\Debug\net48\Jdy31OledMonitor.pdb
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\bin\Debug\net48\Assets\ui_background.png
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\bin\Debug\net48\Jdy31OledMonitor.exe.config
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\bin\Debug\net48\Jdy31OledMonitor.exe
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\bin\Debug\net48\Jdy31OledMonitor.pdb
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\obj\Debug\net48\Jdy31OledMonitor.csproj.AssemblyReference.cache
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\obj\Debug\net48\Jdy31OledMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\obj\Debug\net48\Jdy31OledMonitor.AssemblyInfoInputs.cache
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\obj\Debug\net48\Jdy31OledMonitor.AssemblyInfo.cs
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\obj\Debug\net48\Jdy31OledMonitor.csproj.CoreCompileInputs.cache
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\obj\Debug\net48\Jdy31OledMonitor.exe
+D:\Desktop\EL2205 Coursework GP-3\Code for GUI\obj\Debug\net48\Jdy31OledMonitor.pdb
